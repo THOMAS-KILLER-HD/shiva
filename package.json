@@ -1,6 +1,6 @@
 {
-  "name": "Shiva",
-  "description": "text",
+  "name": "Text",
+  "description": "Text",
   "version": "0.0.1",
   "main": "bot.js",
   "scripts": {
