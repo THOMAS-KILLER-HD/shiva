@@ -1,13 +1,25 @@
 {
-  "name": "shiva",
-  "description": "Text",
-  "version": "0.0.1",
-  "main": "main.js",
+
+  "name": "Test",
+
+  "description": "Test",
+
+  "version": "0.0.0",
+
+  "main": "bot.js",
+
   "scripts": {
-    "start": "node main.js"
+
+    "start": "node bot.js"
+
   },
+
   "dependencies": {
+
     "discord.js": "11.1.0",
+
     "request": "2.81.0"
+
   }
+
 }
