@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const client = new Discord.Client(574539670617325588);
 
-client.on('ready', (s-) => {
+client.on('ready', () => {
     console.log('I am ready!');
 });
 
