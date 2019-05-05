@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 
-const client = new Discord.Client(574539670617325588);
+const client = new Discord.Client ( 574539670617325588 );
 
  
 
